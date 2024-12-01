@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lucifer-aztec.
 - 👀 I’m interested in Ethical Hacking.
-- 💞️ I’m looking to collaborate on Repositories and Hacking Tool's.
+- 💞️ I’m looking to collaborate on Repositories and Hacking Tools.
 - 📫 How to reach me : 📩Mail : arghyabiswas273@gmail.com
 
 <!---
